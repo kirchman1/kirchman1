@@ -1,10 +1,10 @@
 <p align="center">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiryl
 =============================================================================================================================
-
+</p>
 Web Developer
 -------------
-</p>
+
 
 Kiryl, 21 years old, aspiring web developer, originally from Belarus, but living in Warsaw. I completed online training as a Python developer, and I really want to develop further in this topic. My immediate plans: find a job in the field of web development and constantly improve my skills.
 
