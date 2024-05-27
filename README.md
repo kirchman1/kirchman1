@@ -18,4 +18,6 @@ Kiryl, 21 years old, aspiring web developer, originally from Belarus, but living
 
 ### :bar_chart: Statistics:
 
+<p align="center">
 <a href="https://github.com/kirchman1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirchman1&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
