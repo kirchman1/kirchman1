@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 
-Kiryl, 21 years old, aspiring web developer, originally from Belarus, but living in Warsaw. I completed online training as a Python developer, and I really want to develop further in this topic. My immediate plans: find a job in the field of web development and constantly improve my skills.
+Kiryl, 21 years old, aspiring web developer. I completed online training having mastered the skills of a Python developer, and I want to continue to develop in this topic. My immediate plans: find a job in the field of the web development and constant improvement of my skills. Hobbies: sport and cars.
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [kavalchukkiryl@gmail.com](mailto:kavalchukkiryl@gmail.com)
